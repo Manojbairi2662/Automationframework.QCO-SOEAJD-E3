@@ -12,6 +12,8 @@ public class ReadDataFromCmdLine
 		
 		System.out.println(USERNAME);
 		System.out.println(PASSWORD);
+		
+		
 	}
 
 }
