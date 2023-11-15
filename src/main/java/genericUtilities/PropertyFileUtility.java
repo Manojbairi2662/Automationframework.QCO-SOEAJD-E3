@@ -9,8 +9,7 @@ import java.util.Properties;
 /* multi line comment*/
 
 /**
- * This class consist of generic methods to read data from
- * property file
+ * This class consist of generic methods to read data from property file
  * @author Manoj
  *
  */
